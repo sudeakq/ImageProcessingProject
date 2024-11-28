@@ -47,5 +47,5 @@ bash
 pip install -r requirements.txt
 
 
-Author
+## Author
 This project was created by sudeakq and mehmetkayikcii as a demonstration of image classification techniques. Contributions and feedback are welcome!
